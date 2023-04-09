@@ -58,5 +58,12 @@ Here's the result:
 <img width="411" alt="Screen Shot 2023-04-09 at 1 59 08 PM" src="https://user-images.githubusercontent.com/97696773/230796266-baef2303-6d11-47b4-8aa8-3b75824755c5.png">
 
 
+# Add a line of my favorite programming language
+
+We would added this line into the README.md file in the VScode.
+
+Here's the result:
+
+<img width="407" alt="Screen Shot 2023-04-09 at 2 04 59 PM" src="https://user-images.githubusercontent.com/97696773/230796458-044cd461-830d-4a85-8a1c-0069ea707a68.png">
 
 
