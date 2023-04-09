@@ -27,6 +27,27 @@ Since I've already added add-read-me branch, I use another branch name
 Open the VScode, go to the README.md, add the text into this file and save it, push to origin and commit.
 <img width="367" alt="Screen Shot 2023-04-09 at 12 51 03 PM" src="https://user-images.githubusercontent.com/97696773/230793730-007bc741-7003-4e4d-b4eb-0d5b6cb3744d.png">
 
+# add
+I first use git clone to clone the cse15l-lab-reports repo. However, this repo only shows in my VScode which was not saved in internal data base. Use `git add .` to add all of the files into internal database
+<img width="373" alt="Screen Shot 2023-04-09 at 1 00 57 PM" src="https://user-images.githubusercontent.com/97696773/230794005-227cb4b8-b06b-4a66-9d39-e80367c99e37.png">
+
+Here's the result:
+<img width="372" alt="Screen Shot 2023-04-09 at 1 01 54 PM" src="https://user-images.githubusercontent.com/97696773/230794042-851c725f-a37a-46ad-9861-adaf6664a55e.png">
+
+
+# commit
+Since after updating the README.md file, I've already done other actions. Use `git commit -m "comment"` did show different actions that I have done. 
+
+Here's the result:
+<img width="536" alt="Screen Shot 2023-04-09 at 1 05 04 PM" src="https://user-images.githubusercontent.com/97696773/230794148-62987dc5-41ec-43a9-82ee-2ddf7dc950cd.png">
+
+# push
+Use `git push` to push the changes made in local git repo to a remote repo. 
+
+In the below case, since I do not specify the remote repo, it puch the changes from main repo to the main repo.
+
+Here's the result:
+<img width="411" alt="Screen Shot 2023-04-09 at 1 59 08 PM" src="https://user-images.githubusercontent.com/97696773/230796266-baef2303-6d11-47b4-8aa8-3b75824755c5.png">
 
 
 
